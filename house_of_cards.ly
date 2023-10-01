@@ -15,6 +15,7 @@ melody = \relative c'' {
 		b1\glissando | d,4 r8 d e4 c | b r b8 a c4 | b r2. |
 		r2. r8 d |  
 		b'1\glissando | d,2 e4 c | b r8 b b a c4 | b r2. |
+		b4 b8 b b a c4 | b r2. | 
 		
 	}
 }
@@ -24,7 +25,8 @@ text = \lyricmode {
 	rea -- dy to fall. My
 	shoul -- der and my spine
 	hold ev -- 'ry thing here.
-}
+	They can -- not watch my cards slip.
+}	
 
 chordnames = \chordmode {
 	g1 | g | g2. c4 | g1 | g |
