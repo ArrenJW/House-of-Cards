@@ -2,7 +2,7 @@
 
 Initial Lilypond song repository.
 
-@TODO Learn to use markdown.
+@TODO Learn to use markdown, vim, git.
 
 ## notes and tools
 

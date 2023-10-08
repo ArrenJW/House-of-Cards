@@ -16,7 +16,20 @@ melody = \relative c'' {
 		r2. r8 d |  
 		b'1\glissando | d,2 e4 c | b r8 b b a c4 | b r2. | % shoulder... here. 
 		b4 b8 b b a c4 | b r2. | % they... slip. 
-		b4 b8 b b a c4 | b r2. | % they... like this.
+		b4 b8 b b a c4 | b r2. | % they... like this.  My
+		 % structure it is thin and it weighs me down.
+
+		 % Shaky hands pray to the ace. They
+		 % try to hold onto the space. But
+		 % winds are too strong, and 
+		 % I cannot hold up the weight of my world
+		 % I can't breathe. And
+		 % I can't see. But
+		 % diamond eyes
+		 % hold up these structures so thin
+		 % and wise.
+		 % I am a house of cards.
+		 % Just watch me fall.
 	}
 }
 
@@ -26,20 +39,20 @@ text = \lyricmode {
 	shoul -- der and my spine
 	hold ev -- 'ry thing here.
 	They can -- not watch my cards slip.
-	They can -- not see me like this. 
-	My structure it is thin and it weighs me down
+	They can -- not see me like this. My
+	structure it is thin and it weighs me down.
 
-	Shaky hands pray to the ace
-	They try to hold onto the space
-	But winds are too strong
-	And I cannot hold up the weight of my world
-	I can't breathe
-	And I can't see
-	But diamond eyes
+	Shaky hands pray to the ace. They
+	try to hold onto the space. But
+	winds are too strong, and 
+	I cannot hold up the weight of my world
+	I can't breathe. And
+	I can't see. But
+	diamond eyes
 	hold up these structures so thin
-	and wise
-	I am a house of cards
-	Just watch me fall
+	and wise.
+	I am a house of cards.
+	Just watch me fall.
 
 }	
 
