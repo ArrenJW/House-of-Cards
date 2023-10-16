@@ -56,7 +56,13 @@ text = \lyricmode {
 
 chordnames = \chordmode {
 	g1 | g | g2. c4 | g1 | g |
-	g1 | g | g2. c4 | g1 | g |
+	g1 | g | g2. c4 | g1 |
+	g2. c4 | g1 | g2. c4 | g1 |
+	g1 | g | d | d | 
+	
+	g1 | g | c1 | c | c | c | c |
+	d | d | d | d | d | c | c | c2 g2 | c1 | 
+	g1 | g | g2. c4 | g1| 
 }
 
 \score {
