@@ -2,7 +2,7 @@
 
 \header {
   title = "House of Cards"
-  composer = "words and music by Arren"
+  composer = "Words and Music by Arren"
   copyright = "© copyright 2023 Motiri Joseph-White"
 }
 
@@ -16,20 +16,18 @@ melody = \relative c'' {
 		r2. r8 d |  
 		b'1\glissando | d,2 e4 c | b r8 b b a c4 | b r2. | % shoulder... here. 
 		b4 b8 b b a c4 | b r2. | % they... slip. 
-		b4 b8 b b a c4 | b r2. | % they... like this.  My
-		 % structure it is thin and it weighs me down.
-
-		 % Shaky hands pray to the ace. They
-		 % try to hold onto the space. But
-		 % winds are too strong, and 
-		 % I cannot hold up the weight of my world
-		 % I can't breathe. And
-		 % I can't see. But
-		 % diamond eyes
-		 % hold up these structures so thin
-		 % and wise.
-		 % I am a house of cards.
-		 % Just watch me fall.
+		b4 b8 b b a c4 | b r2 r8 b8 | % they... like this.  My
+		g'1 \glissando | d2 b'4 g | fis r8 fis \tuplet 3/2 {fis4 e g }| fis r2. | % structure it is thin and it weighs me down.
+		
+		\tuplet 3/2 {b4 b b} \tuplet 3/2 {b4 a g} | g4 r2 r8 d8 | % Shaky hands pray to the ace. They
+		\tuplet 3/2 {b'4 b b} \tuplet 3/2 {b4 a g} | g8( e ) r2 r8 d8 | % try to hold onto the space. But
+		\tuplet 3/2 {b'4 b b} b r8 d, | % winds are too strong, and 
+		\tuplet 3/2 {b'4 b b} \tuplet 3/2 {b4 a g} | g r fis4. e8 | d4 r2. | % I cannot hold up the weight of my world
+		d2 e | e8( fis4.) r4. e8 |   % I can't breathe. And
+		d2 e | e8(fis4.) r2 | % I can't see. 
+		e4 e8 e~ e4 r4 | % diamond eyes
+		\tuplet 3/2 {e4 e e} \tuplet 3/2 {e d c} | c r b2 | c r | % hold up these structures so thin and wise.
+		b'1\glissando | d,4 r8 d e4 c | b r \tuplet 3/2 {b a c4} | b r2. | % I am a house of cards. Just watch me fall.
 	}
 }
 
@@ -40,16 +38,16 @@ text = \lyricmode {
 	hold ev -- 'ry thing here.
 	They can -- not watch my cards slip.
 	They can -- not see me like this. My
-	structure it is thin and it weighs me down.
+	stru -- cture it is thin and it weighs me down.
 
-	Shaky hands pray to the ace. They
-	try to hold onto the space. But
+	Sh -- aky hands pray to the ace. They
+	try to hold on -- to the spade. But
 	winds are too strong, and 
-	I cannot hold up the weight of my world
+	I can -- not hold up the weight of my world.
 	I can't breathe. And
-	I can't see. But
-	diamond eyes
-	hold up these structures so thin
+	I can't see. 
+	Dia -- mond eyes
+	hold up these struc -- tures so thin
 	and wise.
 	I am a house of cards.
 	Just watch me fall.
